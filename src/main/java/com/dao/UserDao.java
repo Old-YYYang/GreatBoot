@@ -2,8 +2,9 @@ package com.dao;
 
 /**
  * @author  Dongsu
- * @date  2020/11/9 21:56
- * @desc  用户dao
+ * @date  2020/11/9 23:21
+ * @desc  用户Dao
  **/
-public class UserDao {
+public interface UserDao {
+    
 }
