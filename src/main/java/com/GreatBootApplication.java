@@ -10,10 +10,10 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  * @SpringBootApplication 标注这是一个springboot主程序类
  **/
 @SpringBootApplication
-public class MyApplication {
+public class GreatBootApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(MyApplication.class, args);
+        SpringApplication.run(GreatBootApplication.class, args);
     }
 
 }
